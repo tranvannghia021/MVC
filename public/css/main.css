@@ -1,0 +1,139 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html {
+  font-family: Arial, Helvetica, sans-serif;
+}
+#header {
+  top: 0;
+  position: fixed;
+  right: 0;
+  left: 0;
+  border: 0.5px solid #ccc;
+  width: 100%;
+  height: 60px;
+  box-shadow: 0px 1px #ccc;
+  line-height: 60px;
+  z-index: 10;
+  background-color: #fff;
+}
+.header__logo {
+  margin: 0 20px;
+}
+.header__logo img {
+  height: 60px;
+}
+.header__list ul {
+  display: flex;
+}
+.header__list li {
+  margin: 0 20px;
+  list-style: none;
+}
+.header__list li a {
+  text-decoration: none;
+  color: black;
+  font-weight: 700;
+}
+.header__icon {
+  float: right;
+  position: relative;
+}
+.header__icon ul {
+  display: flex;
+}
+.header__icon ul li {
+  list-style: none;
+  margin: 0 10px;
+}
+.subsearch {
+  display: none;
+  position: absolute;
+  background-color: #ccc;
+  min-width: 220px;
+  min-height: 40px;
+  padding: 10px;
+  right: 70px;
+}
+.subsearch::after {
+  content: "";
+  position: absolute;
+  top: -40px;
+  right: 10px;
+  border: 20px solid;
+  border-color: transparent transparent #ccc transparent;
+}
+.subsearch::before {
+  content: "";
+  position: absolute;
+  width: 40px;
+  height: 30px;
+  top: -30px;
+  right: 10px;
+}
+.input__search {
+  min-width: 100px;
+  width: 150px;
+  height: 25px;
+  border-radius: 5px;
+  outline: none;
+}
+.btn__search {
+  min-width: 30px;
+  min-height: 25px;
+  background-color: #fff;
+  border-radius: 5px;
+}
+.btn__search:hover {
+  color: #ff5500;
+}
+.header__icon ul li:first-child:hover .subsearch {
+  display: block;
+}
+.subuser {
+  display: none;
+  position: absolute;
+  background-color: #ccc;
+  min-width: 250px;
+  min-height: 40px;
+  padding: 10px 20px;
+  right: 0px;
+}
+.subuser::after {
+  content: "";
+  position: absolute;
+  top: -40px;
+  right: 0px;
+  border: 20px solid;
+  border-color: transparent transparent #ccc transparent;
+}
+.subuser::before {
+  content: "";
+  position: absolute;
+  width: 40px;
+  height: 30px;
+  top: -30px;
+  right: 0px;
+}
+.btn__login,
+.btn__register {
+  width: 100px;
+  min-height: 30px;
+  background-color: #0059b3;
+  border: none;
+  color: #fff;
+  padding: 0 10px;
+}
+.btn__login:hover,
+.btn__register:hover {
+  background-color: #ff5500;
+}
+.header__icon ul li:last-child:hover .subuser {
+  display: block;
+}
+
+.icon__cart:hover {
+  color: #ff5500;
+}
