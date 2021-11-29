@@ -1,3 +1,4 @@
+<!-- slider begin -->
 <div class="slider" style="top: 50px;">
     <i class="fa fa-angle-left slider-prev"></i>
     <ul class="slider-dots">
@@ -10,21 +11,302 @@
     <div class="slider-wrapper">
         <div class="slider-main">
             <div class="slider-item">
-                <img src="https://images.unsplash.com/photo-1475809913362-28a064062ccd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="" />
+                <img src="public/img/slider1.jpg" alt="" />
             </div>
             <div class="slider-item">
-                <img src="https://images.unsplash.com/photo-1463501810073-6e31c827a9bc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="" />
+                <img src="public/img/slider2.jpg" alt="" />
             </div>
             <div class="slider-item">
-                <img src="https://images.unsplash.com/photo-1497752531616-c3afd9760a11?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="" />
+                <img src="public/img/slider3.jpg" alt="" />
             </div>
             <div class="slider-item">
-                <img src="https://images.unsplash.com/photo-1425082661705-1834bfd09dca?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1355&q=80" alt="" />
+                <img src="public/img/slider4.jpg" alt="" />
             </div>
             <div class="slider-item">
-                <img src="https://images.unsplash.com/photo-1470093851219-69951fcbb533?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="" />
+                <img src="public/img/slider5.jpg" alt="" />
             </div>
         </div>
     </div>
     <i class="fa fa-angle-right slider-next"></i>
+</div>
+<!-- slider end -->
+<!-- content home begin  -->
+<div id="content">
+    <div class="content__h1">
+
+        <h1>SẢN PHẨM BÁN CHẠY</h1>
+    </div>
+    <div class="row grid wide">
+        <div class="col l-3">
+            <div class="content__home-product">
+                <div class="content__home-img">
+                    <img src="public/img/san-pham.jpg" alt="san-pham">
+                </div>
+                <div class="content__home-body">
+                    <h3> Tên sản phẩm</h3>
+                    <p>Giá: <span>90.000đ</span></p>
+                    <button type="submit">XEM THÊM</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="col l-3">
+            <div class="content__home-product">
+                <div class="content__home-img">
+                    <img src="public/img/san-pham.jpg" alt="san-pham">
+                </div>
+                <div class="content__home-body">
+                    <h3> Tên sản phẩm</h3>
+                    <p>Giá: <span>90.000đ</span></p>
+                    <button type="submit">XEM THÊM</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="col l-3">
+            <div class="content__home-product">
+                <div class="content__home-img">
+                    <img src="public/img/san-pham.jpg" alt="san-pham">
+                </div>
+                <div class="content__home-body">
+                    <h3> Tên sản phẩm</h3>
+                    <p>Giá: <span>90.000đ</span></p>
+                    <button type="submit">XEM THÊM</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="col l-3">
+            <div class="content__home-product">
+                <div class="content__home-img">
+                    <img src="public/img/san-pham.jpg" alt="san-pham">
+                </div>
+                <div class="content__home-body">
+                    <h3> Tên sản phẩm</h3>
+                    <p>Giá: <span>90.000đ</span></p>
+                    <button type="submit">XEM THÊM</button>
+                </div>
+            </div>
+        </div>
+        <div class="col l-3">
+            <div class="content__home-product">
+                <div class="content__home-img">
+                    <img src="public/img/san-pham.jpg" alt="san-pham">
+                </div>
+                <div class="content__home-body">
+                    <h3> Tên sản phẩm</h3>
+                    <p>Giá: <span>90.000đ</span></p>
+                    <button type="submit">XEM THÊM</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="col l-3">
+            <div class="content__home-product">
+                <div class="content__home-img">
+                    <img src="public/img/san-pham.jpg" alt="san-pham">
+                </div>
+                <div class="content__home-body">
+                    <h3> Tên sản phẩm</h3>
+                    <p>Giá: <span>90.000đ</span></p>
+                    <button type="submit">XEM THÊM</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="col l-3">
+            <div class="content__home-product">
+                <div class="content__home-img">
+                    <img src="public/img/san-pham.jpg" alt="san-pham">
+                </div>
+                <div class="content__home-body">
+                    <h3> Tên sản phẩm</h3>
+                    <p>Giá: <span>90.000đ</span></p>
+                    <button type="submit">XEM THÊM</button>
+                </div>
+            </div>
+        </div>
+        <div class="col l-3">
+            <div class="content__home-product">
+                <div class="content__home-img">
+                    <img src="public/img/san-pham.jpg" alt="san-pham">
+                </div>
+                <div class="content__home-body">
+                    <h3> Tên sản phẩm</h3>
+                    <p>Giá: <span>90.000đ</span></p>
+                    <button type="submit">XEM THÊM</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- hàng mới về -->
+    <div class="content__h1">
+
+        <h1>SẢN PHẨM MỚI VỀ</h1>
+    </div>
+    <div class="row grid wide">
+
+        <div class="col l-3">
+            <div class="content__home-product">
+                <div class="content__home-img">
+                    <img src="public/img/san-pham.jpg" alt="san-pham">
+                </div>
+                <div class="content__home-body">
+                    <h3> Tên sản phẩm</h3>
+                    <p>Giá: <span>90.000đ</span></p>
+                    <button type="submit">XEM THÊM</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="col l-3">
+            <div class="content__home-product">
+                <div class="content__home-img">
+                    <img src="public/img/san-pham.jpg" alt="san-pham">
+                </div>
+                <div class="content__home-body">
+                    <h3> Tên sản phẩm</h3>
+                    <p>Giá: <span>90.000đ</span></p>
+                    <button type="submit">XEM THÊM</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="col l-3">
+            <div class="content__home-product">
+                <div class="content__home-img">
+                    <img src="public/img/san-pham.jpg" alt="san-pham">
+                </div>
+                <div class="content__home-body">
+                    <h3> Tên sản phẩm</h3>
+                    <p>Giá: <span>90.000đ</span></p>
+                    <button type="submit">XEM THÊM</button>
+                </div>
+            </div>
+        </div>
+        <div class="col l-3">
+            <div class="content__home-product">
+                <div class="content__home-img">
+                    <img src="public/img/san-pham.jpg" alt="san-pham">
+                </div>
+                <div class="content__home-body">
+                    <h3> Tên sản phẩm</h3>
+                    <p>Giá: <span>90.000đ</span></p>
+                    <button type="submit">XEM THÊM</button>
+                </div>
+            </div>
+        </div>
+        <div class="col l-3">
+            <div class="content__home-product">
+                <div class="content__home-img">
+                    <img src="public/img/san-pham.jpg" alt="san-pham">
+                </div>
+                <div class="content__home-body">
+                    <h3> Tên sản phẩm</h3>
+                    <p>Giá: <span>90.000đ</span></p>
+                    <button type="submit">XEM THÊM</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="col l-3">
+            <div class="content__home-product">
+                <div class="content__home-img">
+                    <img src="public/img/san-pham.jpg" alt="san-pham">
+                </div>
+                <div class="content__home-body">
+                    <h3> Tên sản phẩm</h3>
+                    <p>Giá: <span>90.000đ</span></p>
+                    <button type="submit">XEM THÊM</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="col l-3">
+            <div class="content__home-product">
+                <div class="content__home-img">
+                    <img src="public/img/san-pham.jpg" alt="san-pham">
+                </div>
+                <div class="content__home-body">
+                    <h3> Tên sản phẩm</h3>
+                    <p>Giá: <span>90.000đ</span></p>
+                    <button type="submit">XEM THÊM</button>
+                </div>
+            </div>
+        </div>
+        <div class="col l-3">
+            <div class="content__home-product">
+                <div class="content__home-img">
+                    <img src="public/img/san-pham.jpg" alt="san-pham">
+                </div>
+                <div class="content__home-body">
+                    <h3> Tên sản phẩm</h3>
+                    <p>Giá: <span>90.000đ</span></p>
+                    <button type="submit">XEM THÊM</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</div>
+<!-- content home end -->
+<div id="category">
+    <div class="content__h1">
+
+        <h1>DANH MỤC SẢN PHẨM</h1>
+    </div>
+    <div class="row grid wide">
+        <div class="col l-3">
+            <div class="content__home-product">
+                <div class="content__home-img">
+                    <img src="public/img/san-pham.jpg" alt="san-pham">
+                </div>
+                <div class="content__home-body">
+                    <h3> Tên danh mục</h3>
+                    <button type="submit" style="margin-top: 10px;">XEM THÊM</button>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="col l-3">
+            <div class="content__home-product">
+                <div class="content__home-img">
+                    <img src="public/img/san-pham.jpg" alt="san-pham">
+                </div>
+                <div class="content__home-body">
+                    <h3> Tên danh mục</h3>
+                    <button type="submit" style="margin-top: 10px;">XEM THÊM</button>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="col l-3">
+            <div class="content__home-product">
+                <div class="content__home-img">
+                    <img src="public/img/san-pham.jpg" alt="san-pham">
+                </div>
+                <div class="content__home-body">
+                    <h3> Tên danh mục</h3>
+                    <button type="submit" style="margin-top: 10px;">XEM THÊM</button>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="col l-3">
+            <div class="content__home-product">
+                <div class="content__home-img">
+                    <img src="public/img/san-pham.jpg" alt="san-pham">
+                </div>
+                <div class="content__home-body">
+                    <h3> Tên danh mục</h3>
+                    <button type="submit" style="margin-top: 10px;">XEM THÊM</button>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>

@@ -5,10 +5,10 @@
         </div>
         <div class="header__list">
             <ul>
-                <li> <a href="">TRANG CHỦ</a>
+                <li> <a href="./Home/index">TRANG CHỦ</a>
 
                 </li>
-                <li><a href="">SẢN PHẨM</a></li>
+                <li><a href="./Home/product">SẢN PHẨM</a></li>
 
             </ul>
         </div>
@@ -22,7 +22,7 @@
                         </form>
                     </div>
                 </li>
-                <li><i class="icon__cart fas fa-shopping-cart"></i>
+                <li><i class="icon__cart fas fa-shopping-cart" onclick="window.location.href='./Home/cart'"></i>
                     <!-- <div class="subcart">
 
             </div> -->

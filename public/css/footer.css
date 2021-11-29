@@ -1,0 +1,30 @@
+#footer {
+  background-color: #000;
+  color: #fff;
+  bottom: 0;
+  right: 0;
+  left: 0;
+}
+.footer__text {
+  text-align: center;
+}
+.footer__a h3,
+.footer__a h4,
+.footer__a p {
+  margin: 10px 0;
+}
+.footer__a img {
+  width: 50px;
+  text-align: center;
+}
+.footer__a a {
+  color: #fff;
+}
+.footer__a a:hover {
+  color: #ff5500;
+}
+.active {
+  padding: 5px 0;
+  background-color: #4d4d4d;
+  text-align: center;
+}

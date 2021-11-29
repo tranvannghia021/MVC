@@ -10,17 +10,24 @@ class Home extends Controller
     }
     function index()
     {
-        $this->view("index", [
+        return $this->view("index", [
             "page" => "home",
             "product" => $this->Product->getAll(),
             "category" => $this->Category->getCategory(),
         ]);
     }
+    function product()
+    {
+        return $this->view("index", [
+            "page" => "Product",
+            "product" => $this->Product->getAll()
+        ]);
+    }
     function cart()
     {
-        $this->view("index", [
-            "page" => "cart",
-            "category" => $this->Category->getCategory(),
+        return $this->view("index", [
+            "page" => "Cart",
+
         ]);
     }
 }

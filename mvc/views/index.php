@@ -5,11 +5,13 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <base href="http://localhost:8080/project/public" target="_blank">
+    <base href="http://localhost:8080/project/" target="_blank">
     <link rel="stylesheet" href="public/font/css/all.min.css">
     <link rel="stylesheet" href="public/css/base.css">
     <link rel="stylesheet" href="public/css/main.css">
     <link rel="stylesheet" href="public/css/slider.css">
+    <link rel="stylesheet" href="public/css/footer.css">
+    <link rel="stylesheet" href="public/css/cart.css">
 
 
 
