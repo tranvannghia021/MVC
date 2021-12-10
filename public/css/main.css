@@ -3,6 +3,10 @@
   margin: 0;
   box-sizing: border-box;
 }
+:root {
+  --color-primary-btn: #71ba22;
+  --color-btn-hover: #ff0000;
+}
 html {
   font-family: Arial, Helvetica, sans-serif;
 }

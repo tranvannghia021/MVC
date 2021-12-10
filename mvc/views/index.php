@@ -9,9 +9,9 @@
     <link rel="stylesheet" href="public/font/css/all.min.css">
     <link rel="stylesheet" href="public/css/base.css">
     <link rel="stylesheet" href="public/css/main.css">
+    <link rel="stylesheet" href="public/css/cart.css">
     <link rel="stylesheet" href="public/css/slider.css">
     <link rel="stylesheet" href="public/css/footer.css">
-    <link rel="stylesheet" href="public/css/cart.css">
 
 
 

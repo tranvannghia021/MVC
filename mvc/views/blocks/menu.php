@@ -5,7 +5,7 @@
         </div>
         <div class="header__list">
             <ul>
-                <li> <a href="./Home/index">TRANG CHỦ</a>
+                <li> <a href="./index">TRANG CHỦ</a>
 
                 </li>
                 <li><a href="./Home/product">SẢN PHẨM</a></li>
