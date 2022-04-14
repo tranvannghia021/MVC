@@ -1,7 +1,7 @@
 <?php
 class Home extends Controller
 {
-    // test git hub
+
     public $Product;
     public $Category;
     function __construct()
