@@ -1,7 +1,7 @@
 <?php
 class Home extends Controller
 {
-//áiugdiasugdiuasg
+
     public $Product;
     public $Category;
     function __construct()
